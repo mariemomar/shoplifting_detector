@@ -63,6 +63,6 @@ Sigmoid → Shoplifting Probability
 4. **Run migrations**
    ```bash
    python manage.py migrate
-## 💫 How to run
+## ✔ How to run
    ``` bash  
   python manage.py runserver 
